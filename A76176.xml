@@ -1,0 +1,167 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Speciall newes from the army at Warwicke since the fight: sent from a minister of good note, to an alderman here in London: wherein is related the names of such that are slain and taken prisoners of both sides: and also the comming of the Marquesse of Hartford towards Hereford with 2000. men, but made to retreate againe by the appearing of the Lord Stampford and his forces: also the funerall of Colonel Charls Essex at Warwick, his body being borne to the grave by the Lo: Mandevill, Lo: Brookes, and some 4. or 6. colonels: with other remarkable passages of truth touching that great battle, not yet printed, which will give great satisfaction to the reader. Also a most pious passage uttered by his Excellency to Master Marshall, upon their discourse of the battle.</title>
+            <author>J. B.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A76176</idno>
+            <idno type="STC">Wing B128</idno>
+            <idno type="STC">Thomason E124_33</idno>
+            <idno type="STC">ESTC R14507</idno>
+            <idno type="EEBO-CITATION">99859677</idno>
+            <idno type="PROQUEST">99859677</idno>
+            <idno type="VID">111772</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A76176)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 111772)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 22:E124[33])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Speciall newes from the army at Warwicke since the fight: sent from a minister of good note, to an alderman here in London: wherein is related the names of such that are slain and taken prisoners of both sides: and also the comming of the Marquesse of Hartford towards Hereford with 2000. men, but made to retreate againe by the appearing of the Lord Stampford and his forces: also the funerall of Colonel Charls Essex at Warwick, his body being borne to the grave by the Lo: Mandevill, Lo: Brookes, and some 4. or 6. colonels: with other remarkable passages of truth touching that great battle, not yet printed, which will give great satisfaction to the reader. Also a most pious passage uttered by his Excellency to Master Marshall, upon their discourse of the battle.</title>
+                  <author>J. B.</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Henry Overton, at his Shop in Popes-Head-Alley,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Octob. 29. 1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed: J.B.</note>
+                  <note>Signatures: A⁴.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Essex, Charles, d. 1642.</term>
+               <term>Somerset, William Seymour, --  Duke of, 1588-1660.</term>
+               <term>Stamford, Henry Grey, --  Earl of, 1599?-1673.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Campaigns --  Early works to 1800.</term>
+               <term>Warwick (England) --  History, Military --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-06</date>
+            <label>Lauren Proux</label>Sampled and proofread</change>
+         <change>
+            <date>2009-06</date>
+            <label>Lauren Proux</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:111772:1"/>
+            <pb facs="tcp:111772:1" rendition="simple:additions"/>
+            <p>SPECIALL NEWES FROM THE ARMY AT <hi>Warwicke</hi> ſince the Fight:</p>
+            <p>Sent From A Miniſter of good note, to an Al<g ref="char:EOLhyphen"/>derman here in <hi>London:</hi>
+            </p>
+            <p>
+               <hi>Wherein is related the names of ſuch that are ſlain and taken priſoners of both ſides:</hi>
+            </p>
+            <p>And alſo the comming of the Marqueſſe of <hi>Hartford</hi> towards <hi>Hereford</hi> with 2000. men, but made to Re<g ref="char:EOLhyphen"/>treate againe by the appearing of the LORD <hi>Stampford</hi> and his Forces:</p>
+            <p>Alſo the Funerall of Colonel <hi>Charls Eſſex</hi> at <hi>Warwick,</hi> His Body being borne to the grave by the Lo: <hi>Mandevill,</hi> Lo: <hi>Brookes,</hi> and ſome 4. or 6. Colonels:</p>
+            <p>
+               <hi>With other remarkable Paſſages of truth touching that great Battle, not yet printed, which will give great ſatisfaction to the READER.</hi>
+            </p>
+            <p>Alſo a moſt pious paſſage uttered by his Excellency to Maſter <hi>Marſhall,</hi> upon their diſcourſe of the Battle.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Henry Overton,</hi> at his Shop in Popes-Head Alley. <hi>Octob.</hi> 29. 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:111772:2"/>
+            <pb facs="tcp:111772:2"/>
+            <head>Warwick, <hi>Octob.</hi> 27. 1642.</head>
+            <floatingText type="letter">
+               <body>
+                  <p>
+                     <seg rend="decorInit">W</seg>Hatſoever was in Dr. <hi>Coxe</hi> his Letter to your ſon, I likewiſe affirme, and thereunto make ſome addition. The Earle of <hi>Lind<g ref="char:EOLhyphen"/>ſey</hi> I ſaw brought dead under his wounds, into <hi>Warwicke</hi> Caſtle upon Tueſday night, the Lord <hi>John,</hi> brother to the Duke of <hi>Le<g ref="char:EOLhyphen"/>nox,</hi> was ſlain in the fight. The Kings red Regiment of 12. hundred men, moſt of them Gentlemen, were firſt routed by my Lord Generals Life<g ref="char:EOLhyphen"/>guard of Gentlemen, and then abundantly ſmitten downe by the Orange Coats, and Sir <hi>William Conſtable</hi> his blew Coats, one of whoſe Enſignes, Mr. <hi>Young</hi> by name, had the firſt honour of ta<g ref="char:EOLhyphen"/>king the Kings Standard, which afterwards an horſeman got into his hands, and rid away with it to the Lord Generall, who bravely flouriſhed it in the field, and then gave it his Secretary, Maſter <hi>Chambers</hi> to keep, and how he loſt it I know not. There are ſlaine on the Kings ſide at leaſt ten for one, though well nigh three parts of thoſe who are ſlaine on our ſide were Waggoners, Carters, and poore unarmed people that ſtood in the Reere to ſee the fight, ſome of them old men, women and Children, a poore piece of va<g ref="char:EOLhyphen"/>lour for ſuch a boaſting enemy. It is reported that Prince <hi>Rupert</hi> was ſo wiſe as not to come neare much danger, but in ſtead of fighting, ſpent his time in pillaging our Noble mens Waggons be<g ref="char:EOLhyphen"/>hinde our Army. We have many men ſoarely wounded, but it was more with flying, then fighting. The Earle of <hi>Bullingbrooke</hi> his ſon, <hi>alias,</hi> my Lord <hi>Sanit-Johns</hi> was the chiefe man that was ſlain on our ſide, whoſe body is now embalmed, and prepared for
+<pb facs="tcp:111772:3"/>
+an interment: Colonell <hi>Charles Eſſex</hi> was buryed with the ſolem<g ref="char:EOLhyphen"/>nity of a Souldier in a Church at <hi>Warwicke</hi> on Wedneſday (which was your Faſt day, but by the command of his Excellency was our day of thankfulneſſe) his Corps was borne to the grave by the Lord <hi>Mandevill,</hi> the Lord <hi>Brooke,</hi> and ſome foure or ſix other Colonels. On Munday the King ſent an Herauld of Armes to his Excellency, ſome ſay the meſſage was to offer a generall pardon upon laying downe of Armes &amp;c. And the anſwer, That the Par<g ref="char:EOLhyphen"/>liament muſt determine what in this caſe ſhould be done, but I cannot confidently ſpeake this. When the left Wing of our Horſe (which were moſt of our horſe which we chiefly relyed upon) fled, and likewiſe the Gunners which on that part of the Army ſhould have played upon the enemy, almoſt 5. Regiments of the foote on the right Wing fled ſoone after. The Lord <hi>Mandevils</hi> men would not ſtand the field, though his Lordſhip beſeeched them, yea, cudgelled them: no nor yet the Lord <hi>Whartons</hi> men: Sir <hi>William Fairefax</hi> his whole Regiment, as I heard, and all Co<g ref="char:EOLhyphen"/>lonell <hi>Chomley</hi> his Regiment, except ſome 80. of them, uſed their heeles. It is ſhrewdly ſuſpected that there was treachery in the bu<g ref="char:EOLhyphen"/>ſineſſe, for the Souldiers ſweare that their Commanders ran firſt, and bid their ſouldiers run too, after farther examination I ſup<g ref="char:EOLhyphen"/>poſe you will heare more. Colonell <hi>Hollis</hi> his Regiment of red-Coates, under God did moſt gallant ſervice, every one fighting like a Lion, with ſuch a glorious ſucceſſe, that by the help of the Lord <hi>Brookes</hi> purple-Coats, they won the field, &amp; crowned a moſt bloody battle with an honourable victory: and yet I muſt not for<g ref="char:EOLhyphen"/>get to tell you that the Lord <hi>Roberts</hi> his red-Coats, and the Lord <hi>Sayes</hi> blew-Coats, together with part of Colonell <hi>Ballards</hi> gray-Coats, did good ſervice. In generall the right Wing of the horſe, and the left wing of the foote bore the brunt of the day, and ob<g ref="char:EOLhyphen"/>tained the victory. If I ſhould relate how admirably the hand of Providence ordered our Artillery and Bullets for the deſtruction of the enemy, but how ſeldome or never almoſt we were hurt by theirs, you would ſtand and wonder: thoſe that rid moſt gallant<g ref="char:EOLhyphen"/>ly among an hundred thouſand bullets, and faced, and charged the enemy; where firſt his Excellency, the Lord of <hi>Bedford,</hi> Sir <hi>Wil<g ref="char:EOLhyphen"/>liam Balfore,</hi> Sir <hi>John Meldrum,</hi> Commander of the Lord <hi>Say</hi>
+                     <pb facs="tcp:111772:3"/>
+his Regiment, Sir <hi>Philip Stapleton,</hi> Sir <hi>Arthur Haſlerig,</hi> Sir <hi>Sa<g ref="char:EOLhyphen"/>muel Luke,</hi> Sergeant Mojor <hi>Hurny,</hi> Captaine <hi>Hunt</hi> though left all alone, theſe are ſome of thoſe which are chiefely ſpoken of for their valour; ſome of our Priſoners now with the King, are Cap<g ref="char:EOLhyphen"/>taine <hi>Auſten,</hi> Captaine <hi>Scroope,</hi> Captaine <hi>Lydcot,</hi> two or three of my Lords guard.</p>
+                  <p>The preſent newes with us is, that London provides bravely, which we are glad of, and that the Counties Southward are all ready to aſſiſt us, I hope it is true. The Kings Army are mad in pillaging ſince the fight, and now threaten <hi>Bambury;</hi> wee heare this day that the Earle of <hi>Weſtmerland</hi> is taken at <hi>Northampton:</hi> You may aſſure my Lord Maior that his ſonne is as well and cheer<g ref="char:EOLhyphen"/>full as ever, though he and I have loſt three or foure pretious friends of our acquaintance in the fight, as namely one Maſter <hi>Cardinall,</hi> Maſter <hi>Michelthawrt,</hi> Maſter <hi>Nelſon,</hi> Maſter <hi>Elice,</hi> the firſt is certainly ſlaine, the other three wee feare are ſlaine or taken priſoners, for as yet wee cannot heare of them. The Mar<g ref="char:EOLhyphen"/>queſſe of <hi>Hartford</hi> lately came towards <hi>Hereford</hi> with ſome 2000. men, but the Lord <hi>Stamford</hi> who lies there in Garriſon, by his ve<g ref="char:EOLhyphen"/>ry appearing, made him glad to recreate. Our Army is now re<g ref="char:EOLhyphen"/>freſhing it ſelfe at <hi>Warwicke,</hi> what farther ſervice it ſhall be put to, or when we ſhall march againe wee know not; that which God hath already done by it, deſerves praiſe from England to perpe<g ref="char:EOLhyphen"/>tuall ages, eſpecially ſince the godly part of the Army have beene inſtrumentall in this noble ſervice. Maſter <hi>William Sedgwicke</hi> of <hi>Farnham</hi> behaved himſelfe like a brave Commander in the Army. I beſeech you Sir if there be any thing new to you in this Letter, be pleaſed to let my Lord Maior, and ſome ſpeciall friends, have a ſight of it, as Sergeant Major <hi>Skippon,</hi> &amp;c. and it would be a cha<g ref="char:EOLhyphen"/>ritable worke if ſome rich Citizen would drop the ſilver oyle of his purſe into the wounds of the ſick and maimed ſouldiers who have ſo freely hazarded their lives for the Goſpell, for their blee<g ref="char:EOLhyphen"/>dings move compaſſion in him who really preſents his humble reſpects to your beloved yoke-fellow, and is ever reſolved to bee</p>
+                  <closer>
+                     <salute>SIR,</salute>
+                     <signed>Your Worſhips ſervant affectionately devoted. J. B.</signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>
+               <pb facs="tcp:111772:4"/>
+               <hi>COventry</hi> very nobly ſent in 18. loade of proviſion for the Army, and freely gave it; wee have taken about 30. of the Kings Waggons, with goods, Armes, &amp;c. had I time to relate it, I could give you eight or ten particulars of the advantages which our enemy had, and the diſadvantages which wee had, the very knowledge whereof will make it appeare that the ſal<g ref="char:EOLhyphen"/>vation of the laſt Sabboth was very glorious; if it may be uſefull, you may print this letter as an addition to that which I ſent to my Lord Maior, for I conceive you have many falſe rumors, but what I write, you may be confident, for the maine is true.</p>
+            <p>Maſter <hi>Henry Boys</hi> is ſafe at <hi>Warwicke,</hi> and becauſe Maſter <hi>Sprat</hi> comes immediatly to London from his Excellency, he thinks it beſt to ſtay two or three dayes for ſome other newes, which he entreats your worſhip to impart to the Committees.</p>
+            <p>One gallant paſſage of his Excellency I had almoſt forgot; it is truely worthy not onely to be knowne by all men, but unto his praiſe to be put into Characters of Gold. It was this, Maſter <hi>Marſhall</hi> was ſpeaking of the ſucceſſe of the battell, his excellency replyed twice together, that he never ſaw leſſe of man in any thnig, nor more of God, which pious expreſſion of a Gene<g ref="char:EOLhyphen"/>ralls heart deſerves a due Emblazon of praiſe.</p>
+            <p>
+               <pb facs="tcp:111772:4"/>SInce I ſealed my Letter, I remember to tell you that Sir <hi>Edmund Varnee</hi> the Kings Standard-bea<g ref="char:EOLhyphen"/>rer is ſlaine; and generally all his beſt Comman<g ref="char:EOLhyphen"/>ders are either ſlaine or taken; but few are left with him, the Foot run away apace from their colours, ſo that of Foote and Horſe both, his Majeſty hath not many thouſands left; the number of the ſlaine men on the Kings ſide betweene two and three thouſand, and our ſide is reputed to be not above 80. or 100. at moſt upon the place of the fight, beſides what were ſlaine in the flight. Wee feare that <hi>Banbury</hi> is yeelded up, ſuch newes is juſt now brought, ſo that to morrow his Excellency will march towards the King. Colo<g ref="char:EOLhyphen"/>nell <hi>Norris</hi> at <hi>Coventry</hi> hath taken eight of the Kings Waggons, one of which being opened hath Plate in in it, what are in the reſt we know not.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
